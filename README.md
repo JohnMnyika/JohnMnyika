@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+![](https://komarev.com/ghpvc/?username=JohnMnyika8&color=brightgreen)
+
 <ul align="center">
   🚀 I am a problem-solving architect of code, turning complexity into elegant simplicity. 🏛️💡🔧</br>
   🎓 My coding journey began during my early Campus days, and ever since, I've been captivated by the art of programming.</br>
