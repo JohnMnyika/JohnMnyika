@@ -16,37 +16,45 @@
   I'm always open to connecting with fellow developers, recruiters, and tech enthusiasts. Let's get in touch through any of these platforms:
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/john-mnyika-810005bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-john--mnyika-0077B5?logo=linkedin" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://twitter.com/j_mnyika">
-    <img src="https://img.shields.io/badge/Twitter-j__mnyika-1DA1F2?logo=twitter" alt="Twitter" />
-  </a>
-</p>
+<div align="center">
+    <!-- Replace the links and image URLs with the correct ones -->
+    <a href="https://www.linkedin.com/in/abu-said-bd">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    <a href="https://twitter.com/j_mnyika">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+    </a>
+    <a href="mailto:jmnyik514@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge">
+    </a>
+</div>
 
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" title="PHP"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" title="React Native"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/next.png" alt="Next.js" title="Next.js"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" title="Trello"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" title="Jira"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" title="MySQL"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"></a>
-  <a href="#"><img width="60" height="60" src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" title="GraphQL"></a>
-</p>
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <a href="#" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"></a>
+    <a href="#" title="TypeScript"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"></a>
+    <a href="#" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"></a>
+    <a href="#" title="PHP"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"></a>
+    <a href="#" title="HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"></a>
+    <a href="#" title="CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"></a>
+    <a href="#" title="React Native"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native Badge"></a>
+    <a href="#" title="Next.js"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"></a>
+    <a href="#" title="Git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"></a>
+    <a href="#" title="Trello"><img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge"></a>
+    <a href="#" title="Jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge"></a>
+    <a href="#" title="MySQL"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"></a>
+    <a href="#" title="PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"></a>
+    <a href="#" title="MongoDB"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"></a>
+    <a href="#" title="GraphQL"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL Badge"></a>
+    <a href="#" title="Figma"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"></a>
+    <a href="#" title="Tailwind CSS"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"></a>
+    <a href="#" title="Bootstrap"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"></a>
+    <a href="#" title="React"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"></a>
+    <a href="#" title="Firebase"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"></a>
+    <a href="#" title="Material-UI"><img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI Badge"></a>
+</div>
 
 
 ## 📊 GitHub Statistics
