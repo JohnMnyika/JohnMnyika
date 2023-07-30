@@ -6,10 +6,10 @@
 
 ![](https://komarev.com/ghpvc/?username=JohnMnyika8&color=brightgreen)
 
-<ul align="center">
+<ul>
   🚀 I am a problem-solving architect of code, turning complexity into elegant simplicity. 🏛️💡🔧</br>
   🎓 My coding journey began during my early Campus days, and ever since, I've been captivated by the art of programming.</br>
-  💡 I aspire to contribute to cutting-edge projects that positively impact people's lives while continuously refining my skills and knowledge.</br>
+  💡 I aspire to contribute to cutting-edge projects that positively impact people's lives while continuously refining my skills.</br>
 </ul>
 
 ## 🌐 Connect with Me
