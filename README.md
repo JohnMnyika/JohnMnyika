@@ -2,8 +2,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JohnMnyika&label=Profile%20views&color=1c87ca&style=flat" alt="JohnMnyika" /> </p>
 
 <ul align="center">
-  🚀 I'm a passionate software developer with a drive for creating innovative solutions.</br>
-  🎓 My coding journey began during my early college days, and ever since, I've been captivated by the art of programming.</br>
+  🚀 I am a problem-solving architect of code, turning complexity into elegant simplicity. 🏛️💡🔧</br>
+  🎓 My coding journey began during my early Campus days, and ever since, I've been captivated by the art of programming.</br>
   💡 I aspire to contribute to cutting-edge projects that positively impact people's lives while continuously refining my skills and knowledge.</br>
 </ul>
 
