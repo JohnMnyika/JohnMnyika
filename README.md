@@ -8,9 +8,9 @@
 
 <ul>
   🔭 Focusing on FullStack.😎</br>
-  🚀 I am a problem-solving architect of code, turning complexity into elegant simplicity. 🏛️💡🔧</br>
-  🎓 My coding journey began during my early Campus days, and ever since, I've been captivated by the art of programming.👩‍💻</br>
-  💡 I aspire to contribute to cutting-edge projects that positively impact people's lives while continuously refining my skills.🚀</br>
+  🚀 I am a problem-solving architect of code, turning complexity into elegant simplicity.</br>
+  🎓 My coding journey began during my early Campus days, and ever since, I've been captivated by the art of programming.</br>
+  💡 I aspire to contribute to cutting-edge projects that positively impact people's lives while continuously refining my skills.</br>
   ⚡ Fun fact: The first computer bug was an actual insect - a moth!🤣
 </ul>
 
@@ -84,5 +84,5 @@
 ## 📧 Contact
 
 <p align="center">
-  Feel free to reach out to me via email at jmnyika514@gmail.com for any professional inquiries or collaboration opportunities. I'm excited to hear from you!
+  Please feel free to reach out to me via email at jmnyika514@gmail.com or WhatsApp at +254700878430 for any professional questions or collaboration opportunities. I'm excited to hear from you!
 </p>
