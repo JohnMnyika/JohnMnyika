@@ -21,7 +21,6 @@
 </p>
 
 <div align="center">
-    <!-- Replace the links and image URLs with the correct ones -->
     <a href="https://www.linkedin.com/in/abu-said-bd">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
@@ -32,7 +31,6 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge">
     </a>
 </div>
-
 
 ## 🚀 Tech Stack
 
@@ -60,8 +58,8 @@
     <a href="#" title="React"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"></a>
     <a href="#" title="Firebase"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"></a>
     <a href="#" title="Material-UI"><img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI Badge"></a>
+    <!-- Add badges for your other technologies here -->
 </div>
-
 
 ## 📊 GitHub Statistics
 
@@ -83,8 +81,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnMnyika&theme=radical&fire=DD2727" alt="GitHub Streak" />
 </p>
 
-## 📧 Contact
-
+<!-- Add the "Sponsor Me" feature here -->
 <p align="center">
-  Please feel free to reach out to me via email at jmnyika514@gmail.com or WhatsApp at +254700878430 for any professional questions or collaboration opportunities. I'm excited to hear from you!
+  If you find my work valuable and would like to support me, consider sponsoring me on GitHub. Your contribution helps me continue creating open-source projects and providing helpful content. You can sponsor me <a href="https://github.com/sponsors/JohnMnyika">here</a>.
 </p>
